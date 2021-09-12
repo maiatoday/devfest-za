@@ -15,7 +15,7 @@ enableMissingTranslationPlaceholders = true
     title = "DevFest South Africa 2021"
     date = "2021-11-12"
     description = "The DevFest, or 'Developers Festival', is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles."
-    images = ["/images/social-share.jpg"]
+    images = ["/images/banner2021.png"]
     email = "gdgjohannesburg@gmail.com"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
     copyright = " some witty message here"
@@ -43,7 +43,7 @@ enableMissingTranslationPlaceholders = true
     external = true
 
 [languages]
-[languages.en]
+  [languages.en]
     weight = 1
     languageName = "gb"
 
