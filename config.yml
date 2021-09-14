@@ -1,4 +1,4 @@
-baseurl: "https://example.org/"
+baseurl: "https://www.maiatoday.net/devfest-za/"
 title: "Devfest South Africa 2021"
 canonifyurls: true
 theme: "hugo-conference"
