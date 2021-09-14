@@ -7,15 +7,15 @@ GoogleAnalytics: ""
 
 params:
   # Conference info
-  Name: "Devfest South Africa 2021"
-  Description: "Conference description"
+  Name: "Devfest ZA"
+  Description: ""
   Date: "November 12 2021"
   #Price: "Only $100" # If your event is free, just comment this line
   Venue: "Online"
   # Address: "Boulevard Kukulcan, 30"
   # City:  "Cancún"
   # State: "Quintana"
-  Images: ["/img/badge.jpg"]
+  Images: ["/img/cover.jpg"]
   # GoogleMapsKey: "my-secret-maps-key"
 
   # Active sections on the website to deactivate comment out with '#'
