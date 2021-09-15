@@ -1,0 +1,46 @@
+- day: '2021-11-12'
+  start: '09:00'
+  rooms:
+    - room: online
+      slots:
+        - slot: open
+          talk: __open
+        - slot: keynote-open
+          talk: keynote_open
+        - slot: pause-1
+          talk: __pause
+        - slot: slot-1
+          talk: talk_1
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-2
+          talk: talk_2
+        - slot: pause-3
+          talk: __pause
+        - slot: slot-3
+          talk: talk_3
+        - slot: slot-lt-1
+          talk: talk_4
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-lt-2
+          talk: talk_5
+        - slot: slot-4
+          talk: talk_6
+        - slot: pause-4
+          talk: __pause
+        - slot: slot-5
+          talk: talk_7
+        - slot: pause-5
+          talk: __pause
+        - slot: slot-6
+          talk: talk_8
+        - slot: pause-6
+          talk: __pause
+        - slot: slot-7
+          talk: talk_9
+        - slot: keynote-close
+          talk: keynote_close
+        - slot: close
+          talk: __close
+    

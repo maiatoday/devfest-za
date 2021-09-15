@@ -26,7 +26,7 @@ enableMissingTranslationPlaceholders = true
     favicon16 = "/favicon-16x16.png"
     manifest = "/manifest.json"
     safariPinnedTab = "/safari-pinned-tab.svg"
-    themeColor = "#673ab7"
+    themeColor = "#fbbc04"
     googleWebmasterKey = ""
 
 [params.logos]
@@ -36,10 +36,10 @@ enableMissingTranslationPlaceholders = true
 
 [menu]
 [[menu.main]]
-    identifier = "jobs"
-    name = "Jobs"
-    url = ""
-    weight = 200
+    identifier = "cfp"
+    name = "CFP"
+    url = "https://sessionize.com/devfest-south-africa-2021"
+    weight = 190
     external = true
 
 [languages]

@@ -3,7 +3,7 @@
 - [x] setup repo
 - [ ] get assets
 - [ ] put assets on site
-- [ ] fix build so it deploys to web
+- [x] fix build so it deploys to web
 - [ ] get site info from Pam and set it up to serve from devfest.co.za
 
 # Koketso

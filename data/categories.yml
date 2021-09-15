@@ -1,0 +1,20 @@
+- key: _mobile
+  name: "Mobile"
+  # id: 3c7ab24d-59c1-5118-b6fa-ef679a376100
+- key: _cloud
+  name: "Cloud"
+  # id: e3fdfb05-1630-5c56-bc5d-501217ad62e
+- key: _web
+  name: "Web"
+  # id: cff3cdbc-52e9-5d5a-8f98-927ee005f59b
+- key: _beyond
+  name: "Beyond"
+  # id: 8ab523e2-022d-5d16-924c-da4477ddb881
+- key: keynote
+  name: Keynote
+- key: lunch
+  name: Lunch
+- key: pause
+  name: Pause
+- key: close
+  name: Close
