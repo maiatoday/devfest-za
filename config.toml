@@ -1,4 +1,4 @@
-baseURL = "http://www.devfest.co.za/"
+baseURL = "http://www.maiatoday.net/devfest-za"
 languageCode = "en-us"
 title = "Devfest South Africa 2021"
 theme = "devfest-theme-hugo"
